@@ -1,1 +1,1 @@
-export const API_URL = 'http://192.168.100.29:3000/api';
+export const API_URL = 'https://people-finder-app.onrender.com/api';
